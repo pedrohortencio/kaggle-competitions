@@ -31,7 +31,7 @@ Abaixo estão os gráficos com os resultados finais. Mais abaixo, estão os resu
  ![](https://raw.githubusercontent.com/pedrohortencio/kaggle-competitions/main/Digit%20Recognizer%20-%20MNIST%20and%20Kannada/Validation-Loss-Comparison.png)
  *Evolução da validation loss de acordo com as épocas. Apenas as 30 primeiras sendo exibidas.*
  
- ![](hhttps://raw.githubusercontent.com/pedrohortencio/kaggle-competitions/main/Digit%20Recognizer%20-%20MNIST%20and%20Kannada/Validation-Accuracy-Comparison.png)
+ ![](https://raw.githubusercontent.com/pedrohortencio/kaggle-competitions/main/Digit%20Recognizer%20-%20MNIST%20and%20Kannada/Validation-Accuracy-Comparison.png)
  *Evolução da acurácia no conjunto de validação ao longo das épocas. Apenas as 30 primeiras sendo exibidas.*
  
  ![](https://raw.githubusercontent.com/pedrohortencio/kaggle-competitions/main/Digit%20Recognizer%20-%20MNIST%20and%20Kannada/Test-Loss-Comparison.png)
