@@ -5,8 +5,8 @@ Há duas atividades principais que constam nos arquivos deste repositório:
 2) A comparação de resultados de um mesmo modelo, do tipo Convolutional Neural Network, no dataset do MNIST (da competição mencionada acima) e do Kannada MNIST. 
 
 Os notebooks da competição do Kaggle são os:
-* [Digit Recognizer - CNN](https://github.com/pedrohortencio/digit-recognizer-kaggle/blob/master/Digit_Recognizer_CNN.ipynb) - implementa uma CNN para a resolução do desafio.
-* [Digit Recognizer - SVC](https://github.com/pedrohortencio/digit-recognizer-kaggle/blob/master/Digit_Recognizer_SVC.ipynb) - implementa um SVC para a resolução do desafio.
+* [Digit Recognizer - CNN](https://github.com/pedrohortencio/kaggle-competitions/blob/main/Digit%20Recognizer%20-%20MNIST%20and%20Kannada/Digit_Recognizer_CNN.ipynb) - implementa uma CNN para a resolução do desafio.
+* [Digit Recognizer - SVC](https://github.com/pedrohortencio/kaggle-competitions/blob/main/Digit%20Recognizer%20-%20MNIST%20and%20Kannada/Digit_Recognizer_SVC.ipynb) - implementa um SVC para a resolução do desafio.
 
 Os resultados obtidos pelos notebooks foram descritos mais abaixo, após os resultados da comparação entre os datasets.
 
@@ -28,16 +28,16 @@ A conclusão preliminar para esses resultados é a maior variedade de exemplos d
 
 Abaixo estão os gráficos com os resultados finais. Mais abaixo, estão os resultados obtidos na competição Digit Recognizer, do Kaggle, que julga a acurácia obtida no conjunto de dados MNIST.
 
- ![](https://raw.githubusercontent.com/pedrohortencio/digit-recognizer-kaggle/master/Validation-Loss-Comparison.png)
+ ![](https://raw.githubusercontent.com/pedrohortencio/kaggle-competitions/main/Digit%20Recognizer%20-%20MNIST%20and%20Kannada/Validation-Loss-Comparison.png)
  *Evolução da validation loss de acordo com as épocas. Apenas as 30 primeiras sendo exibidas.*
  
- ![](https://raw.githubusercontent.com/pedrohortencio/digit-recognizer-kaggle/master/Validation-Accuracy-Comparison.png)
+ ![](hhttps://raw.githubusercontent.com/pedrohortencio/kaggle-competitions/main/Digit%20Recognizer%20-%20MNIST%20and%20Kannada/Validation-Accuracy-Comparison.png)
  *Evolução da acurácia no conjunto de validação ao longo das épocas. Apenas as 30 primeiras sendo exibidas.*
  
- ![](https://raw.githubusercontent.com/pedrohortencio/digit-recognizer-kaggle/master/Test-Loss-Comparison.png)
+ ![](https://raw.githubusercontent.com/pedrohortencio/kaggle-competitions/main/Digit%20Recognizer%20-%20MNIST%20and%20Kannada/Test-Loss-Comparison.png)
  *Loss final, obtida no conjunto de testes.*
  
- ![](https://raw.githubusercontent.com/pedrohortencio/digit-recognizer-kaggle/master/Test-Accuracy-Comparison.png)
+ ![](https://raw.githubusercontent.com/pedrohortencio/kaggle-competitions/main/Digit%20Recognizer%20-%20MNIST%20and%20Kannada/Test-Accuracy-Comparison.png)
   *Acurácia final, obtida no conjunto de testes.*
   
   
