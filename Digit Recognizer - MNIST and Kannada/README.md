@@ -1,3 +1,5 @@
+:grey_exclamation: _This repository is in Portuguese. The comments in the code are also in Portuguese. Currently it has no translation, but the TLDR: the CNN model's score was 99.114%._
+
 # Sobre Este Repositório
 
 Há duas atividades principais que constam nos arquivos deste repositório:
